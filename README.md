@@ -1,4 +1,8 @@
+# App in Termux
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+The objective this project is validate the ipotese that is possible progrman in smartphone.
 
 ## Available Scripts
 
